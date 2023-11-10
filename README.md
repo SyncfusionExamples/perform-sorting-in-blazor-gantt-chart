@@ -2,15 +2,16 @@
 
 The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. In this quick-start project, you can learn how to enable sorting, sort columns at initial load, sort columns dynamically at runtime, sort custom columns, and clear all the sorted columns in the Syncfusion Gantt Chart in a Blazor WebAssembly application. You’ll also go over the available sort events.
 
-Watch the video: Coming soon...
+## Prerequisites
 
-## Project prerequisites
-Make sure you have a compatible version of .NET Core on your machine before starting to work on this project. You also need the following:
-* [Visual Studio 2019 (version 16.6+)]( https://visualstudio.microsoft.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples)
-* [.NET Core SDK 3.1.3+](https://dotnet.microsoft.com/download/dotnet-core/3.1?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples)
+* Visual Studio 2022
 
-## How to run this application
-To run this application, you need to first clone or download the ‘perform sorting in blazor gantt chart’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Further help
 
